@@ -22,13 +22,19 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/assignmnet-checker.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.tanay7.snackbcc36c83fff34ffe81c9de6bf2354158"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "(project2)"
+    "description": "(project2)",
+    "extra": {
+      "eas": {
+        "projectId": "52108de5-058f-498e-b2b9-56dd85cdc4a5"
+      }
+    }
   }
 }
