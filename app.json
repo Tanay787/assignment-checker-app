@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "assignment-checker-app-v2",
-    "slug": "snack-bcc36c83-fff3-4ffe-81c9-de6bf2354158",
+    "name": "assignment-checker-app",
+    "slug": "assignment-checker-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,7 +22,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/assignmnet-checker.png",
+        "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
       "package": "com.tanay7.snackbcc36c83fff34ffe81c9de6bf2354158"
@@ -33,8 +33,9 @@
     "description": "(project2)",
     "extra": {
       "eas": {
-        "projectId": "52108de5-058f-498e-b2b9-56dd85cdc4a5"
+        "projectId": "b6cf808e-66be-4524-8a0b-208d308c95ae"
       }
-    }
+    },
+    "owner": "tanay7"
   }
 }

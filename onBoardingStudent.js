@@ -9,7 +9,7 @@ import {
   Alert,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import { Picker } from '@react-native-community/picker';
+import { Picker } from '@react-native-picker/picker';
 import firebase from 'firebase';
 import AuthContext from './AuthContext';
 import AsyncStorage from '@react-native-async-storage/async-storage';
@@ -302,7 +302,7 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    width: '150%', // Update the width as per your preference
+    width: '150%',
   },
 });
 
