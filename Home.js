@@ -157,7 +157,7 @@ const styles = StyleSheet.create({
   },
   titleContainer: {
     justifyContent: 'flex-start',
-    width: '90%', // Add this line
+    width: '90%',
   },
   title: {
     fontSize: 25,
